@@ -1,4 +1,43 @@
 import random
+import os
+from time import sleep
+
+
+print("##########################################################""\n")
+print("KNIGHTS vs. GOBLINS")
+print("Created by Kurtiss Frost with the assistance of ChatGPT")
+print("https://chat.openai.com/chat""\n")
+print("##########################################################")
+sleep (5)
+os.system('cls')
+
+print("Narrator: WELCOME to the Kingdom of Larion brave Knight!")
+sleep (4)
+os.system('cls')
+
+print("Narrator: I hope your sword serves you well on your adventure.")
+sleep (4)
+os.system('cls')
+
+print("Narrator: There have been signs of Goblin activity reported in the forrest.")
+sleep (4)
+os.system('cls')
+
+print("Narrator: His excellency, the King, has requested that you head there immediately to stop the Goblin menace!")
+sleep (4)
+os.system('cls')
+
+print("Narrator: You should set out at once!")
+sleep (4)
+os.system('cls')
+
+print("After hours of riding, you finally approach the forest. You dismount from your horse and head into the forest.")
+sleep (4)
+os.system('cls')
+
+print("As soon as you step inside, YOU ARE ATTACKED!")
+sleep (4)
+os.system('cls')
 
 # Initialize player and goblin stats
 player_hp = 10
