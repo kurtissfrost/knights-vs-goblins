@@ -35,6 +35,14 @@ It didn't work as planned.
 
 <br><br>
 
+# Update Log:
+
+#### **12/17/22:**
+
+So, apparently there was an update to the ai and when I asked it the prompt again, it managed to deliver. You can find the file here in the repo.
+
+<br><br>
+
 # What is it?
 This is a little project I made while I was putting the [ChatGPT](https://chat.openai.com/chat) ai through it's paces. I gave the ai 2 different prompts to see what it could handle and these are the results. **If you want to read more about this process, I have documented in over on [dev.to]()**
 
