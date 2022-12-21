@@ -76,6 +76,9 @@ Your prompts seem to have to be very direct but not overly complicated (or at le
 
 <br>
 
+# Knights vs. Goblins Wiki:
+You can find more information about the project in the [wiki](https://github.com/kurtissfrost/knights-vs-goblins/wiki)
+
 ---
 
 [![Buy Me - A Coffee](https://img.shields.io/badge/Buy_Me-A_Coffee-FFDD00?style=for-the-badge&logo=buy+me+a+coffee&logoColor=ffffff)](https://www.buymeacoffee.com/frostkurti0)
